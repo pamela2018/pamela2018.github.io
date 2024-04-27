@@ -1,0 +1,70 @@
+header {
+    text-align: center;
+    display: block;
+    background: #d8b5fb;
+    padding: 5px 50px 3px;
+    color: #000000;
+    border-bottom: 3px solid #6B3E9C;
+}
+
+body {
+    text-align: center;
+    font-family: fonts;
+    margin: 0;
+    background-color: white;
+    
+ }
+
+ .barra_uno{
+     color: #FFFFFF;
+     text-align: center;
+     font-size: 35px;
+     padding: 5px 70px 3px;
+   overflow: hidden;
+   background-color: #00283a; /* Este es un ejemplo de un código de color azul */
+ }
+
+ .barra_dos{
+   overflow: hidden;
+   background-color: #1f3742; /* Este es un ejemplo de un código de color azul */
+ }
+
+ .barra_dos a {
+   float: left;
+   display: block;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+ }
+
+ .barra_dos a:hover {
+   background-color: #ddd;
+   color: black;
+ }
+ .linea_negra {
+   height: 1mm;
+   background-color: black;
+   margin: 0% 0;
+ }
+ .texto {
+   font-size: 20px;
+   font-family: fonts;
+   text-align: center;
+   margin: 20px;
+   color: #333;
+ }
+ .cine_u{
+   text-align: center;
+   font-family: font;
+   font-size: 60px;
+ }
+ .p1{
+ text-align: center;
+}
+.p{
+font-size: 25px;
+}
+.p2{
+font-size: 45px;
+}
